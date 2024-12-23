@@ -1,0 +1,22 @@
+export const color ={
+    buttonColor : '#000080',
+    border:'E7EBF3',
+   arrowBG :"#D3D3D3",
+   background:"#FFFFFF",
+   createText:'#0B152D',
+   longText:'#9CA0AB',
+   profilePic:'#4B5879',
+   upload:'#EE28A9',
+   placeholderText: '#4F535E',
+   errorText: '#FF0000',
+   buttonBackground: '#007BFF',
+   buttonText: '#FFFFFF',
+   inputBorder: '#CCCCCC',
+   modalTextColor:'#000000',
+   backgroundColorModal: 'white',
+   backgroundColorList: '#F6F9FA',
+   borderColorList: '#F6F9FA',
+   borderDD:'#32A071',
+   backgroundDDText: '#7F879A',
+   phnText:'#7B8293'
+}
